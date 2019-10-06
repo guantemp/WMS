@@ -1,5 +1,5 @@
 /*
- * Copyright 2019 www.foxtail.cc All rights Reserved.
+ * Copyright 2019 www.hoprxi.com All rights Reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /***
- * @author <a href="www.foxtail.cc/authors/guan xianghuang">guan xiangHuan</a>
+ * @author <a href="www.hoprxi.com/authors/guan xianghuang">guan xiangHuan</a>
  * @since JDK8.0
  * @version 0.0.1 builder 2019-07-13
  */
