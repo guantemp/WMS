@@ -17,8 +17,8 @@
 package wms.hoprxi.domain.model.warehouse;
 
 
-import wms.foxtail.domain.model.organization.Owner;
-import wms.foxtail.domain.model.warehouse.location.Location;
+import wms.hoprxi.domain.model.organization.Owner;
+import wms.hoprxi.domain.model.warehouse.location.Location;
 
 /***
  * @author <a href="www.hoprxi.com/authors/guan xiangHuan">guan xiangHuan</a>
