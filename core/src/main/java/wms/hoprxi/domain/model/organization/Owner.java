@@ -17,7 +17,7 @@
 package wms.hoprxi.domain.model.organization;
 
 
-import wms.foxtail.domain.model.brace.Contact;
+import wms.hoprxi.domain.model.brace.Contact;
 
 /***
  * @author <a href="www.hoprxi.com/authors/guan xiangHuan">guan xiangHuan</a>
